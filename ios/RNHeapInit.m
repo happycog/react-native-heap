@@ -21,6 +21,7 @@
     } else {
         NSLog(@"Not auto-initializing Heap library.");
     }
+    [Heap setAppId: @"3812426192"];
 }
 
 @end
